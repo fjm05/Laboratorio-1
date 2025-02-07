@@ -1,0 +1,6 @@
+Datos personales 
+
+a. NOMBRE: Francisco José 
+b. APELLIDO: Madrid Calvache 
+c. FECHA_DE_NACIMIENTO: 2005/09/15
+
